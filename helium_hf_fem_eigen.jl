@@ -5,7 +5,6 @@ module Helium_HF_FEM_Eigen
     using CUDA
     using LinearAlgebra
     using Match
-    using MKL
     using Printf
     using .GaussLegendre
     using .Helium_HF_FEM_Eigen_module
